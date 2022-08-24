@@ -4,7 +4,7 @@
 
 ## License
 
-[Mozilla Public License Version 2.0](https://github.com/XTLS/Xray-core/blob/main/LICENSE)
+[Mozilla Public License Version 2.0](https://github.com/alinu66/Xray-core/blob/main/LICENSE)
 
 ## Installation
 
